@@ -2,7 +2,7 @@
 
 I have ten years of interdisciplinary research experience. I am building tools to analyze single-cell data on multiple platforms in my current position at [CHI, NIH](https://chi.niaid.nih.gov/). In the past, I have worked on applying deep learning to large-scale molecular data to understand drug bioactivation and toxicity. I have also worked with protein structure/complex prediction, modeling protein-protein interactions, molecular dynamics simulations, virtual screening, and sequence analysis.
 
-I am fond of computing in general and maintain a variety of services on my [home server](https://rohitfarmer.ddns.net/). I have a long-standing passion for [photography](https://unsplash.com/@rohitfarmer) that spans from macro to portraits to the landscape. I [read](https://www.goodreads.com/rohitfarmer) often, and sometimes I [write](https://medium.com/@rohitfarmer). I recently got my Ham radio liscence with the call sign [KC3SNU](https://www.qrz.com/db/kc3snu). You can find more about me and my work on a variety of content-sharing websites https://linktr.ee/rohitfarmer.
+I am fond of computing in general and maintain a variety of services on my [home server](https://rohitfarmer.ddns.net/). I have a long-standing passion for [photography](https://unsplash.com/@rohitfarmer) that spans from macro to portraits to the landscape. I [read](https://www.goodreads.com/rohitfarmer) often, and sometimes I [write](https://medium.com/@rohitfarmer). I recently got my Ham radio liscence with the call sign [KC3SNU](https://www.qrz.com/db/kc3snu). You can find more about me on my website https://rohitfarmer.github.io.
 
 <!--
 **rohitfarmer/rohitfarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
